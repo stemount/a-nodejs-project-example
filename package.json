@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stemount/a-nodejs-project-example/issues"
   },
-  "homepage": "https://github.com/stemount/a-nodejs-project-example#readme"
+  "homepage": "https://github.com/stemount/a-nodejs-project-example#readme",
+  "dependencies": {
+    "is-upper-case": "^2.0.1"
+  }
 }
